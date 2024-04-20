@@ -13,9 +13,13 @@ Contact : CadeJAlmond@gmail.com
 
 ## Jaaylin Martin, Front-End Development, Product and UI Design 
 <img height="300" width="250" src="https://cdn.discordapp.com/attachments/1152272739428728913/1231013227438149753/Me.JPG?ex=66356968&is=6622f468&hm=1dc7b8f9428610457cfdcd26159588b94bd4492a2436117494baaa2a257a8133&"/>
-I am a software engineer with a BS in Computer Science with a minor in Animation. My main interests are in web 
-development and programming creative applications. With a bit of innovation, artistic vision, and problem-solving, 
-anything is achievable!
+I am a software engineer with a BS in Computer Science and a minor in Animation from the Univiersity of Utah. 
+My main interests are in web development and programming creative applications. I really enjoy brainstorming 
+ideas and being able to create a prototpye which builds upon itself to become a full fledged creation. As for 
+languages, react has been fantastic to learn and use! However, when I need to code something that's not a website,
+I like to use C# and C++. I am a highly motivated person with aspirations to create great things and believe 
+technology is the perfect catalysty to get things moving. With a bit of innovation, artistic vision, and 
+problem-solving, anything is achievable!
 Contact :  jaayfree13@gmail.com
 
 ## Jonathan Waung, Database
